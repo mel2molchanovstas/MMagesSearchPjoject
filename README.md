@@ -9,3 +9,6 @@ LOG 0.0.2
 
 LOG 0.0.3
  * First release
+
+LOG 0.0.4
+ * Loaded programm
