@@ -12,3 +12,6 @@ LOG 0.0.3
 
 LOG 0.0.4
  * Loaded programm
+
+LOG 0.0.5
+ * Second release
